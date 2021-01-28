@@ -9,6 +9,7 @@ The coming soon splash page for the 2021 Algonquin Design Grad website.
 ## Team Members
 
 - [@thomasjbradley](https://github.com/thomasjbradley)
+- [@jen-power](https://github.com/jen-power)
 
 ---
 
