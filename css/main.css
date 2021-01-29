@@ -1,0 +1,8 @@
+html {
+  font-family: Barlow, sans-serif;
+}
+
+.masthead {
+  background-image: url("../images/hero-banner-gradient.svg");
+  background-color: #ff0000;
+}
