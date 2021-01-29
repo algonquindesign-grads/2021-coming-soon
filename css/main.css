@@ -2,6 +2,10 @@ html {
   font-family: Barlow, sans-serif;
 }
 
+header {
+  background-color: #f1f1f1;
+}
+
 .semi-bold {
   font-weight: 600;
 }
@@ -31,5 +35,13 @@ em {
 }
 
 h2 {
+  font-family: Bungee, sans-serif;
+}
+
+footer {
+  background-color: #f1f1f1;
+}
+
+.social-heading {
   font-family: Bungee, sans-serif;
 }
