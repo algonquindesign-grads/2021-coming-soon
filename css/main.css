@@ -24,6 +24,8 @@ header {
 .logo {
   width: 100%;
   max-width: 10em;
+  display: block;
+  margin: 0 auto;
 }
 
 .bungee {
@@ -52,4 +54,8 @@ footer {
   margin-right: auto;
   max-width: 23em;
   width: 100%;
+}
+
+.block {
+  display: block;
 }
