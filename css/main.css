@@ -2,7 +2,21 @@ html {
   font-family: Barlow, sans-serif;
 }
 
+.semi-bold {
+  font-weight: 600;
+}
+
 .masthead {
   background-image: url("../images/hero-banner-gradient.svg");
+  background-size: 100%;
   background-color: #ff0000;
+}
+
+.hero-banner {
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+.logo {
+  width: 10em;
 }
